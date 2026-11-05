@@ -1,0 +1,11 @@
+D:\repos\mircoInverterTool\bin\Debug\mircoInverterTool.exe.config
+D:\repos\mircoInverterTool\bin\Debug\mircoInverterTool.exe
+D:\repos\mircoInverterTool\bin\Debug\mircoInverterTool.pdb
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.csproj.AssemblyReference.cache
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.Form1.resources
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.Properties.Resources.resources
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.csproj.GenerateResource.cache
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.csproj.CoreCompileInputs.cache
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.exe
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.pdb
+D:\repos\mircoInverterTool\obj\Debug\mircoInverterTool.exe.config
